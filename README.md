@@ -35,7 +35,5 @@ The model achieved an accuracy of 0.20
 - Handle class imbalance  
 
 - Deploy the model
-   ## Note on Dataset
+   
 
-The CSV file tickets.csv is included in this repository.  
-GitHub may not preview it due to its size, but it can be downloaded and used to run the notebook.
